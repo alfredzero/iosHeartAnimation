@@ -13,6 +13,7 @@
 		00B1679A2BDF6BD700589C0E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00B167982BDF6BD700589C0E /* Main.storyboard */; };
 		00B1679C2BDF6BD900589C0E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00B1679B2BDF6BD900589C0E /* Assets.xcassets */; };
 		00B1679F2BDF6BD900589C0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 00B1679D2BDF6BD900589C0E /* LaunchScreen.storyboard */; };
+		00B167C62BDF74B300589C0E /* heartsprite in Resources */ = {isa = PBXBuildFile; fileRef = 00B167C52BDF74B300589C0E /* heartsprite */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		00B1679B2BDF6BD900589C0E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		00B1679E2BDF6BD900589C0E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		00B167A02BDF6BD900589C0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		00B167C52BDF74B300589C0E /* heartsprite */ = {isa = PBXFileReference; lastKnownFileType = folder; path = heartsprite; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		00B167862BDF6BD700589C0E = {
 			isa = PBXGroup;
 			children = (
+				00B167C52BDF74B300589C0E /* heartsprite */,
 				00B167912BDF6BD700589C0E /* iosHeartAnimation */,
 				00B167902BDF6BD700589C0E /* Products */,
 			);
@@ -127,6 +130,7 @@
 			files = (
 				00B1679F2BDF6BD900589C0E /* LaunchScreen.storyboard in Resources */,
 				00B1679C2BDF6BD900589C0E /* Assets.xcassets in Resources */,
+				00B167C62BDF74B300589C0E /* heartsprite in Resources */,
 				00B1679A2BDF6BD700589C0E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
